@@ -1,0 +1,14 @@
+C:\Users\Marco\C#\labb3test\controltest\obj\Debug\controltest.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\labb3test\controltest\bin\Debug\controltest.dll
+C:\Users\Marco\C#\labb3test\controltest\bin\Debug\controltest.pdb
+C:\Users\Marco\C#\labb3test\controltest\bin\Debug\labb3test.dll
+C:\Users\Marco\C#\labb3test\controltest\bin\Debug\labb3test.pdb
+C:\Users\Marco\C#\labb3test\controltest\obj\Debug\controltest.dll
+C:\Users\Marco\C#\labb3test\controltest\obj\Debug\controltest.pdb
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\bin\Debug\controltest.dll
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\bin\Debug\controltest.pdb
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\bin\Debug\labb3test.dll
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\bin\Debug\labb3test.pdb
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\obj\Debug\controltest.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\obj\Debug\controltest.dll
+C:\Users\Marco\Laboration 3\Uppgift 5\labb3test\controltest\obj\Debug\controltest.pdb

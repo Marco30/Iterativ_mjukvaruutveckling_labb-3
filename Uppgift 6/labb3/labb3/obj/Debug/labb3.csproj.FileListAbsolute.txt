@@ -1,0 +1,12 @@
+C:\Users\Marco\C#\labb3\labb3\bin\Debug\labb3.exe.config
+C:\Users\Marco\C#\labb3\labb3\bin\Debug\labb3.exe
+C:\Users\Marco\C#\labb3\labb3\bin\Debug\labb3.pdb
+C:\Users\Marco\C#\labb3\labb3\obj\Debug\labb3.csprojResolveAssemblyReference.cache
+C:\Users\Marco\C#\labb3\labb3\obj\Debug\labb3.exe
+C:\Users\Marco\C#\labb3\labb3\obj\Debug\labb3.pdb
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\bin\Debug\labb3.exe.config
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\obj\Debug\labb3.exe
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\obj\Debug\labb3.pdb
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\bin\Debug\labb3.exe
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\bin\Debug\labb3.pdb
+C:\Users\Marco\Laboration 3\Uppgift 6\labb3\labb3\obj\Debug\labb3.csprojResolveAssemblyReference.cache
